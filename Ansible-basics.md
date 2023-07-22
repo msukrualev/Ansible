@@ -1,6 +1,6 @@
 # Hands-on Ansible-01: To Install Ansible and Ansible Basic Operations
 
-The purpose of this hands-on training is to have knowledge of basic Ansible skills.
+The purpose of this hands-on training is to have knowledge of basic Ansible skills..
 
 ## Learning Outcomes
 
